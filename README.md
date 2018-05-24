@@ -1,0 +1,2 @@
+## Inference on Treatment Effect Modification by Marker Response in a Baseline Surrogate Measure Three-Phase Sampling Design
+R code used in the simulation study and application to the CYD14 and CYD15 dengue vaccine trial data of estimation and inferential methods described in *Inference on Treatment Effect Modification by Marker Response in a Baseline Surrogate Measure Three-Phase Sampling Design* by Michal Juraska, Ying Huang, and Peter B. Gilbert.
